@@ -1,9 +1,8 @@
-# CarRaceSimulation
 
 
+# CarRaceSimulation 🚗 
 
-### CarRaceSimulation 🚗 
-is a console application that simulates a car race between three cars. Each car has a speed and a starting position, and the application simulates how long each car takes to reach the finish line.
+CarRaceSimulation is a console application that simulates a car race between three cars. Each car has a speed and a starting position, and the application simulates how long each car takes to reach the finish line.
 
 During the race, random events can affect both cars' speed and time. For example, a car may need to stop to refuel or change tires, or lose time due to technical problems.
 
